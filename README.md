@@ -1,4 +1,4 @@
-# video-web-2-playlist
+# Crawler Video Playlist
 
 A [Scrapy](https://scrapy.org/) crawler that turns a streaming web page into a playable `.m3u8` playlist.
 
